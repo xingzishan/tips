@@ -5,7 +5,7 @@ Introduction
 
 just record my experience
 
-_just test show style_
+\_just test show style\_
 
 Architecture overview
 ----
